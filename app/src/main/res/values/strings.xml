@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">RetrofitSample</string>
+  <string name="dialogTitle">Error</string>
+  <string name="retryButton">Retry</string>
+  <string name="cancelButton">Cancel</string>
+  <string name="fetchErrorMessage">Could not fetch the remote configs!</string>
+  <string name="responseErrorMessage">Something went wrong."\n"Failed to retrieve the response!</string>
+</resources>
